@@ -1,0 +1,7 @@
+{
+  "extends": ["@joincivil/tslint-rules"],
+  "rules": {
+    "no-empty-interface": [false],
+    "variable-name": [true, "ban-keywords"]
+  }
+}
